@@ -1,0 +1,9 @@
+enabled: true
+id: "contacts"
+
+content:
+  title: "Позвоните прямо сейчас!"
+  image: "images/services-web-development.png"
+  button:
+    label: "Let's talk"
+    url: "#"

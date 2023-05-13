@@ -1,0 +1,85 @@
+baseURL: "http://maporo.ru/"
+languageCode: "ru-ru"
+
+title: "ООО МаПоРо"
+
+summaryLength: 20
+
+params:
+  title: "ООО МаПоРо"
+  description: "Разработка ПО любого уровня сложности."
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  location:
+    - "Калининград, Российская Федерация"
+
+  contact:
+    - "@email"
+    - "+7phone"
+
+  copyright: "© 2023 ООО МаПоРо"
+
+menus:
+  main:
+    - name: "Главная"
+      url: "/#landing"
+      weight: 1
+
+    - name: "Принципы"
+      url: "/#principles"
+      weight: 2
+
+    - name: "Наша Команда"
+      url: "/#team"
+      weight: 3
+
+    - name: "Наши Клиенты"
+      url: "/#clients"
+      weight: 4
+
+    - name: "Контакты"
+      url: "/#contacts"
+      weight: 5
+
+#  buttons:
+#    - name: "Book a call"
+#      url: "/#"
+#      weight: 5
+#      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Главная"
+      url: "/#landing"
+      weight: 1
+
+    - name: "Принципы"
+      url: "/#principles"
+      weight: 2
+
+    - name: "Наша Команда"
+      url: "/#team"
+      weight: 3
+
+    - name: "Наши Клиенты"
+      url: "/#clients"
+      weight: 4
+
+    - name: "Контакты"
+      url: "/#contacts"
+      weight: 5
+
+    - name: "Блог"
+      url: "/blog"
+      weight: 6
+
+taxonomies:
+  series: "series"
+  tags: "tags"
