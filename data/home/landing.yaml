@@ -2,7 +2,7 @@ enabled: true
 id: "landing"
 
 content:
-  title: "Разработка ПО любой сложности (Тест)"
+  title: "Разработка ПО любой сложности"
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
 
   buttonPrimary:
