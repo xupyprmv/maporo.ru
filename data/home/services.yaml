@@ -5,7 +5,7 @@ content:
   - image: "images/portfolio-ecommerce.png"
     pretitle: "Бэкенд"
     title: "Разработка на Java/Kotlin"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    text: "Наша команда экспертов по разработке предлагает полный спектр услуг в области бэкенд-разработки, специализируясь на языках программирования Java и Kotlin. Мы создаем надежные API, интегрируемся с базами данных, обеспечиваем обработку бизнес-логики, оптимизируем производительность, проводим тестирование и отладку, а также предоставляем непрерывную поддержку и обслуживание вашего бэкенда для эффективной работы вашего веб-приложения или сервиса"
 
     buttons: 
       - label: "See live"
@@ -17,7 +17,7 @@ content:
   - image: "images/portfolio-ecommerce.png"
     pretitle: "Бизнес-разработка"
     title: "Разработка на 1С"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    text: "Мы предлагаем профессиональные услуги по бизнес-разработке на платформе 1С, включая разработку и настройку конфигурации, интеграцию с другими системами, создание отчетности и аналитики, а также непрерывную техническую поддержку и обслуживание вашей 1С-системы. Наша команда опытных разработчиков и аналитиков создаст индивидуальные решения, полностью соответствующие вашим требованиям и потребностям, чтобы помочь вам автоматизировать и оптимизировать бизнес-процессы в вашей компании"
 
     buttons: 
       - label: "See live"
@@ -29,7 +29,8 @@ content:
   - image: "images/portfolio-ecommerce.png"
     pretitle: "Мобильные приложения"
     title: "Разработка на Android"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    text: "
+Мы предлагаем высококачественные услуги по разработке мобильных приложений на платформе Android. Наша команда опытных разработчиков и дизайнеров создает инновационные и удобные в использовании мобильные приложения, учитывая ваши требования. Мы занимаемся концептуализацией и дизайном, разработкой пользовательского опыта, функциональностью и интеграцией, тестированием и оптимизацией, а также развертыванием и поддержкой приложения. Наша цель - помочь вашему бизнесу расшириться и достичь новых высот через качественные мобильные приложения"
 
     buttons: 
       - label: "See live"

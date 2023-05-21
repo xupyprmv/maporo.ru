@@ -6,15 +6,15 @@ content:
 
   featured:
     image: "images/testimonials-awards.png"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
+    text: "Я хотел бы выразить свою глубокую благодарность команде компании 'МАПОРО' за их выдающуюся работу. Они действительно являются профессионалами своего дела и демонстрируют исключительные навыки и знания. Члены команды 'МАПОРО' не только проявляют великолепное техническое мастерство, но и обладают отличными коммуникационными навыками. Они всегда готовы выслушать мои потребности и предложить наиболее подходящие решения. Я уверен, что их талантливая команда будет продолжать достигать новых высот и оставаться надежным партнером для многих компаний. Я рекомендую команду 'МАПОРО' всем, кто ищет профессионалов, готовых воплотить самые амбициозные проекты в реальность"
     client: "Anonymous Customer"
 
   list:
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
+    - text: "В компании 'МАПОРО' ценятся инициатива и креативность. У нас есть возможность внести вклад в разработку инновационных решений и улучшение наших продуктов. Это дает мне ощущение значимости и стимулирует к постоянному профессиональному росту"
       client: "Алексей Р."
 
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
+    - text: "Моя роль - обеспечить ясное видение и стратегическое направление для нашей команды. Я поощряю творчество и инновации, поддерживаю инициативы и обеспечиваю ресурсы, необходимые для успешной реализации проектов"
       client: "Владимир М."
 
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
+    - text: "Я верю, что забота о благополучии наших сотрудников способствует их эффективности и успеху. Вместе с командой МАПОРО мы стремимся к созданию здоровой и счастливой рабочей среды, где каждый может процветать и достигать своих целей"
       client: "Александр П."
