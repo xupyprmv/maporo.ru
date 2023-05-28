@@ -9,9 +9,9 @@ params:
   title: "ООО МаПоРо"
   description: "Разработка ПО любого уровня сложности."
   images: 
-    - "images/hero-image.png"
+    - "images/service.png"
 
-  logo: "arrow-up.png"
+  logo: "logo.png"
 
   favicons:
     themeColor: "#FFFFFF"
@@ -49,12 +49,6 @@ menus:
       url: "/#contacts"
       weight: 5
 
-#  buttons:
-#    - name: "Book a call"
-#      url: "/#"
-#      weight: 5
-#      pre: "btn btn-primary text-light"
-
   footer:
     - name: "Главная"
       url: "/#landing"
@@ -75,10 +69,6 @@ menus:
     - name: "Контакты"
       url: "/#contacts"
       weight: 5
-
-    - name: "Блог"
-      url: "/blog"
-      weight: 6
 
 taxonomies:
   series: "series"

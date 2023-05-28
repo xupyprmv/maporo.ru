@@ -3,7 +3,7 @@ id: "contacts"
 
 content:
   title: "Свяжитесь прямо сейчас!"
-  image: "images/services-web-development.png"
+  image: "images/support_call.png"
   button:
     label: "Позвонить"
     phone: "79128636807"
