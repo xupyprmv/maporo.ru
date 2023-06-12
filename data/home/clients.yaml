@@ -4,4 +4,5 @@ id: "clients"
 content:
   title: "Наши клиенты"
   items:
-    - "images/jp-logo.png"
+    - imgPath: "images/jp-logo.png"
+      url: "https://justplayapps.com"
